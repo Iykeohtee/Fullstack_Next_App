@@ -1,9 +1,10 @@
+import Image from 'next/image'
 import React from 'react'
 
 const AboutPage = () => {
   return (
     <div>
-      <img src='/about.png'/>
+      <Image src="about.png"/>
     </div>
   )
 }
