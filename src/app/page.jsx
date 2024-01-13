@@ -6,8 +6,8 @@ const Home = () => {
   <div className={styles.container}>
 
     <div className={styles.textContainer}>
-      <h1 className={styles.title}>Creative Thoughts Agency.</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis inventore eum vitae esse corrupti
+      <h1 className={styles.title}>Creative <br /> Thoughts <br /> Agency.</h1>
+      <p className={styles.desc}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis inventore eum vitae esse corrupti
          accusamus cum, architecto ipsum odit! Iure.
       </p>
       <div className={styles.buttons}>

@@ -5,7 +5,7 @@ import Link from 'next/link'
 const Navbar = () => {
   return (
     <div className={styles.container}>  
-     <Link href="/" className={styles.logo}>Logo</Link>
+     <Link href="/" className={styles.logo}>I_Code</Link>
 
      <div>
       <Links/> 
